@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-Game-using-Js-
+# Rock-Paper-Scissors game using Js-
 A simple game made by HTML,CSS and JavaScript!  
